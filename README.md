@@ -1,2 +1,3 @@
 # SuperCMS
-new CMS Easy 
+
+new CMS Easy and Secure 
